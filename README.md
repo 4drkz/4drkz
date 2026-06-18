@@ -21,7 +21,7 @@
 </div>
 
 ####
-Hi there! My name is Cairo Matheus Damasceno from Brazil
+Hi there! My name is Cairo Matheus Reis Damasceno from Brazil
 and i started this repository for talk more about me, link
 my own projects and contributions here. 👀 Im looking to colaborate,
 learn and get more experience. 🌱 Im currently learning Programming
